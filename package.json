@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "chalk": "^2.3.0",
+    "cli-table2": "^0.2.0",
     "figlet": "^1.2.0",
     "inquirer": "^5.0.0",
     "request": "^2.83.0"
